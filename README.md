@@ -17,3 +17,4 @@ Elimine os nodos 3 e 12 da árvore do exemplo de deleção em árvore binária d
 
 ## Questão 6
 Faça um resumo de uma página + exemplos de código de árvore binária de busca, AVL e Rubro-negras.
+[Questão 6 no Colab](https://colab.research.google.com/drive/1JovvOPmCWzlDHyz1H3_OiNhXCjCyLw7k?usp=sharing)
