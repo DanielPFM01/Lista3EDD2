@@ -1,3 +1,5 @@
+/* Questão 02 e 04 */
+
 public class ArvBinBusca<Valor extends Comparable<Valor>> {
 	private No raiz; /* Raiz da árvore. */
 
